@@ -1,0 +1,18 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: TechnologySolutions.Rfid.AsciiProtocol.TransponderWriteMode
+// Assembly: TechnologySolutions.Rfid.AsciiProtocol.FX35, Version=1.1.5423.27429, Culture=neutral, PublicKeyToken=null
+// MVID: 9C1072D5-BA32-4CFB-BB8E-6AC565EFDF12
+// Assembly location: F:\Visual Studio\Repositories\IlukaOreSampleTracking\lib\Ascii 2 Windows\TechnologySolutions.Rfid.AsciiProtocol.FX35.dll
+
+namespace PortableAscii2
+{
+  /// <summary>
+  /// Determines the Class One Generation Two command used by the reader to perform write operations on a transponder
+  /// 
+  /// </summary>
+  public enum TransponderWriteMode
+  {
+    [EnumExtension("s", "Uses the C1G2 Write command to write to a transponder a single word at a time")] SingleWordWrite,
+    [EnumExtension("b", "Uses the C1G2 BlockWrite command to write to a transponder up to two words at a time")] BlockWrite,
+  }
+}
