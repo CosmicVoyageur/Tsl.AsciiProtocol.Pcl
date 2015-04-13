@@ -6,7 +6,7 @@
 
 using System.Collections.Generic;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Defines the responsibilities of classes that can execute and respond to a TSLAsciiCommand

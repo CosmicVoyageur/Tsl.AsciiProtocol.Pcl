@@ -7,7 +7,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Extends the AsciiResponse to actually respond to commands

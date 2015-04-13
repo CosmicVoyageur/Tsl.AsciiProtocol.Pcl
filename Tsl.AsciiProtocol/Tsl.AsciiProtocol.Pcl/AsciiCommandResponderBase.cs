@@ -11,10 +11,10 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Globalization;
 using System.Text;
-using PortableAscii2.Commands;
-using PortableAscii2.Parameters;
+using Tsl.AsciiProtocol.Pcl.Commands;
+using Tsl.AsciiProtocol.Pcl.Parameters;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Base implmentation of <see cref="T:TechnologySolutions.Rfid.AsciiProtocol.IAsciiCommand"/>

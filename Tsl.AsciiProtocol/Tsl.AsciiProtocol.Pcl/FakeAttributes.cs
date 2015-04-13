@@ -1,6 +1,6 @@
 using System;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
     // these are fake attributes, created when porting library from full .NET to PCL
     public class BrowsableAttribute : Attribute

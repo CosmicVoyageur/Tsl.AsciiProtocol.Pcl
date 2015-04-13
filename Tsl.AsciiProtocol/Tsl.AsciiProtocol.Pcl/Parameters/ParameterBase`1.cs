@@ -10,7 +10,7 @@ using System;
 using System.Globalization;
 using System.Text;
 
-namespace PortableAscii2.Parameters
+namespace Tsl.AsciiProtocol.Pcl.Parameters
 {
   /// <summary>
   /// Base class for parameters

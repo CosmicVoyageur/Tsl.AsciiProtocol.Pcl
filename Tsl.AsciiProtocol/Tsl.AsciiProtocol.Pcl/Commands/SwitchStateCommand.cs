@@ -6,7 +6,7 @@
 
 using System;
 
-namespace PortableAscii2.Commands
+namespace Tsl.AsciiProtocol.Pcl.Commands
 {
   /// <summary>
   /// ASCII command to query the switch state

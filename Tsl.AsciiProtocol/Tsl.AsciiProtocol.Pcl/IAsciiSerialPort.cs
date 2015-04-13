@@ -6,7 +6,7 @@
 
 using System;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Provides methods and properties to access ASCII data via  serial port

@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Processes responses looking for transponder header and collects into a transponder.

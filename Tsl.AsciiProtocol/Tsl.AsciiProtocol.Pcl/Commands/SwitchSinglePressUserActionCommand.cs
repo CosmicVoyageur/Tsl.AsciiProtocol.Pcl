@@ -7,9 +7,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using PortableAscii2.Parameters;
+using Tsl.AsciiProtocol.Pcl.Parameters;
 
-namespace PortableAscii2.Commands
+namespace Tsl.AsciiProtocol.Pcl.Commands
 {
   /// <summary>
   /// Command to set the "usr" action of the switch single press

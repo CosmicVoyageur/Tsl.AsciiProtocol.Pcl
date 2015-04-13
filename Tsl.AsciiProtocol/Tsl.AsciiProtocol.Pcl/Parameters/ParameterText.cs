@@ -7,7 +7,7 @@
 using System;
 using System.Globalization;
 
-namespace PortableAscii2.Parameters
+namespace Tsl.AsciiProtocol.Pcl.Parameters
 {
   /// <summary>
   /// Represents a command line parameter that has a text value

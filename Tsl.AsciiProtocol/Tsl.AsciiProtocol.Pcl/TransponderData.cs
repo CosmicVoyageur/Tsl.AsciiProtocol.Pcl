@@ -7,7 +7,7 @@
 using System;
 using System.Text;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Represents a transponder response from an Inventory, read or write command

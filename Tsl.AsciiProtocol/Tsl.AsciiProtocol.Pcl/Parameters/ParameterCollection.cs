@@ -8,7 +8,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PortableAscii2.Parameters
+namespace Tsl.AsciiProtocol.Pcl.Parameters
 {
   /// <summary>
   /// Groups a collection of <see cref="T:TechnologySolutions.Rfid.AsciiProtocol.Parameters.ICommandParameter"/>s into a set to be used as a single <see cref="T:TechnologySolutions.Rfid.AsciiProtocol.Parameters.IParameterAction"/>s

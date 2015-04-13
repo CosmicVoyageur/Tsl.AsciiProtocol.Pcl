@@ -7,7 +7,7 @@
 using System;
 using System.Text;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// EventArgs when a transponder is reported from an inventory

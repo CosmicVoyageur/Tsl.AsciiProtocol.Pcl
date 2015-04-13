@@ -6,7 +6,7 @@
 
 using System.Collections.Generic;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// A response to as <see cref="T:TechnologySolutions.Rfid.AsciiProtocol.IAsciiCommand"/>

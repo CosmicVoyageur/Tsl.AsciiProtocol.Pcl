@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Extensions methods for the <see cref="T:TechnologySolutions.Rfid.AsciiProtocol.IAsciiResponseLine"/>

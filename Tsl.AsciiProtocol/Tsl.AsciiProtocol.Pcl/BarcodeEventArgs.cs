@@ -7,7 +7,7 @@
 using System;
 using System.Globalization;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// EventArgs where a barcode has been scanned

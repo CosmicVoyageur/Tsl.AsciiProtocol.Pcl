@@ -4,7 +4,7 @@
 // MVID: 9C1072D5-BA32-4CFB-BB8E-6AC565EFDF12
 // Assembly location: F:\Visual Studio\Repositories\IlukaOreSampleTracking\lib\Ascii 2 Windows\TechnologySolutions.Rfid.AsciiProtocol.FX35.dll
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Represents a single line of ASCII response with a header, colon separator and value (e.g. ME: this is a message)

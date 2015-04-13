@@ -7,7 +7,7 @@
 //using TechnologySolutions.Rfid.AsciiProtocol;
 
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Extends <see cref="T:TechnologySolutions.Rfid.AsciiProtocol.IAsciiCommandResponder"/> to provide properties and methods required for synchronous execution

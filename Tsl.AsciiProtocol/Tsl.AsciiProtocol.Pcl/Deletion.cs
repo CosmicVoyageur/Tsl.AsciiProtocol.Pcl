@@ -6,7 +6,7 @@
 
 
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// The set of values that are appropriate for the delete parameter

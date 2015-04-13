@@ -6,7 +6,7 @@
 
 using System;
 
-namespace PortableAscii2.Parameters
+namespace Tsl.AsciiProtocol.Pcl.Parameters
 {
   /// <summary>
   /// A parameter that represent a date and/or time value

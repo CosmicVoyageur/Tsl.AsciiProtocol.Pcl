@@ -10,7 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// TSLAsciiCommander provides methods to communicate with TSL devices that use the TSL ASCII 2.0 Protocol

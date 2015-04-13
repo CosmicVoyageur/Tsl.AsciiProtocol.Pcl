@@ -6,7 +6,7 @@
 
 using System;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// An attribute to extend an Enum value to have a parameter and description

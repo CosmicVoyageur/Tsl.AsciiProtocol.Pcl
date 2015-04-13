@@ -6,7 +6,7 @@
 
 using System;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Encapsulates the restrictions available to protect an EPC C1G2 transponder

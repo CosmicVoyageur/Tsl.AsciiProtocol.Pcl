@@ -10,7 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// A base class that implements responder chain management

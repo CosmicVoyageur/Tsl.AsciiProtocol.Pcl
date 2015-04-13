@@ -5,9 +5,9 @@
 // Assembly location: F:\Visual Studio\Repositories\IlukaOreSampleTracking\lib\Ascii 2 Windows\TechnologySolutions.Rfid.AsciiProtocol.FX35.dll
 
 using System.ComponentModel;
-using PortableAscii2.Parameters;
+using Tsl.AsciiProtocol.Pcl.Parameters;
 
-namespace PortableAscii2.Commands
+namespace Tsl.AsciiProtocol.Pcl.Commands
 {
   /// <summary>
   /// This command determines whether the command sent is echoed back to the host or not

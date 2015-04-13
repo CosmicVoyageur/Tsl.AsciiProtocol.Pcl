@@ -6,7 +6,7 @@
 
 using System;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Prodives data for a received line

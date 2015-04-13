@@ -7,9 +7,9 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using PortableAscii2.Parameters;
+using Tsl.AsciiProtocol.Pcl.Parameters;
 
-namespace PortableAscii2.Commands
+namespace Tsl.AsciiProtocol.Pcl.Commands
 {
   /// <summary>
   /// Base class for commands that return one or more transponders

@@ -10,7 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Provides a base implementation of <see cref="T:TechnologySolutions.Rfid.AsciiProtocol.IAsciiResponse"/>

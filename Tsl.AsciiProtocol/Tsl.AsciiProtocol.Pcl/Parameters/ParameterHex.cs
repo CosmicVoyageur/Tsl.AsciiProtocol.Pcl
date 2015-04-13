@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace PortableAscii2.Parameters
+namespace Tsl.AsciiProtocol.Pcl.Parameters
 {
   /// <summary>
   /// Represents a parameter on the command line that is represented as an ASCII hex string

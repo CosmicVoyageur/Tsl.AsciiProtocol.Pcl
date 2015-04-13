@@ -6,7 +6,7 @@
 
 using System;
 
-namespace PortableAscii2.Parameters
+namespace Tsl.AsciiProtocol.Pcl.Parameters
 {
   /// <summary>
   /// Defines a command line parameter for a command

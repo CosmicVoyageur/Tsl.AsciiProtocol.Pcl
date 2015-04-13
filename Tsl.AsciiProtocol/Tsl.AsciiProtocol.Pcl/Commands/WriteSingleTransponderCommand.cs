@@ -8,9 +8,9 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
-using PortableAscii2.Parameters;
+using Tsl.AsciiProtocol.Pcl.Parameters;
 
-namespace PortableAscii2.Commands
+namespace Tsl.AsciiProtocol.Pcl.Commands
 {
   /// <summary>
   /// A command to write data to the memory banks of a single transponder only

@@ -6,7 +6,7 @@
 
 
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// The interface for classes that handle responses from ASCII 2.x commands

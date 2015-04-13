@@ -6,7 +6,7 @@
 
 using System;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Represents an ASCII response line (e.g. ME: message)

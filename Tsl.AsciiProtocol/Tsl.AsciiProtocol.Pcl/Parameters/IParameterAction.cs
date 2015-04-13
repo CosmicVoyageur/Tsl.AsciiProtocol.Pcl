@@ -6,7 +6,7 @@
 
 using System.Text;
 
-namespace PortableAscii2.Parameters
+namespace Tsl.AsciiProtocol.Pcl.Parameters
 {
   /// <summary>
   /// Defines actions common to all parameters to read from or write to a command line

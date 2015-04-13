@@ -187,3 +187,6 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/Tsl.AsciiProtocol/Tsl.AsciiProtocol.Pcl/Tsl.AsciiProtocol.Pcl.nuspec
+/Tsl.AsciiProtocol/Tsl.AsciiProtocol.Pcl/Tsl.AsciiProtocol.Pcl.1.0.1.nupkg
+/Tsl.AsciiProtocol/Tsl.AsciiProtocol.Pcl/Tsl.AsciiProtocol.Pcl.1.0.0.nupkg

@@ -6,7 +6,7 @@
 
 //using log4net;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// A simple responder that inserts every line it sees, preceded by '&gt;', into the standard log file

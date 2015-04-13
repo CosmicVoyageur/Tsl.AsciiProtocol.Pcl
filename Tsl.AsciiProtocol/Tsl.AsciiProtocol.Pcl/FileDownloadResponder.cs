@@ -7,7 +7,7 @@
 using System;
 using System.IO;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// An implementation of the <see cref="T:TechnologySolutions.Rfid.AsciiProtocol.IAsciiCommandResponder"/> to capture the Autorun and Log files from a device. This responder
@@ -109,7 +109,7 @@ namespace PortableAscii2
     }
 
     /// <summary>
-    /// Returns a <see cref="T:PortableAscii2.FileDownloadResponder"/> to capture an autorun file
+    /// Returns a <see cref="T:Tsl.AsciiProtocol.Pcl.FileDownloadResponder"/> to capture an autorun file
     /// 
     /// </summary>
     /// 
@@ -122,7 +122,7 @@ namespace PortableAscii2
     }
 
     /// <summary>
-    /// Returns a <see cref="T:PortableAscii2.FileDownloadResponder"/> to capture a log file
+    /// Returns a <see cref="T:Tsl.AsciiProtocol.Pcl.FileDownloadResponder"/> to capture a log file
     /// 
     /// </summary>
     /// 

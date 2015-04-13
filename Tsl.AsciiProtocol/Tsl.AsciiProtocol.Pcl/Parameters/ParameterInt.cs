@@ -7,7 +7,7 @@
 using System;
 using System.Globalization;
 
-namespace PortableAscii2.Parameters
+namespace Tsl.AsciiProtocol.Pcl.Parameters
 {
   /// <summary>
   /// Defines a parameter that is an optional integar

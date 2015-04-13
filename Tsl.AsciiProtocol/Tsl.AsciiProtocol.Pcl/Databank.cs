@@ -6,7 +6,7 @@
 
 using System.Diagnostics.CodeAnalysis;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Sepcify the databank to use in <see cref="T:TechnologySolutions.Rfid.AsciiProtocol.Parameters.IDatabankParameters"/>

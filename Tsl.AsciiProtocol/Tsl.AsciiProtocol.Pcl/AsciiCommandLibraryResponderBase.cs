@@ -6,9 +6,9 @@
 
 using System.ComponentModel;
 using System.Text;
-using PortableAscii2.Commands;
+using Tsl.AsciiProtocol.Pcl.Commands;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Base class for library commands

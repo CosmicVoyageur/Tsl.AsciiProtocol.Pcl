@@ -7,7 +7,7 @@
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// Provides utilty methods for helping with commands

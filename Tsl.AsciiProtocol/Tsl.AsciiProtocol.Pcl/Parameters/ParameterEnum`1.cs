@@ -7,7 +7,7 @@
 using System;
 using System.Text;
 
-namespace PortableAscii2.Parameters
+namespace Tsl.AsciiProtocol.Pcl.Parameters
 {
   /// <summary>
   /// Defines a parameter that is derived from a specific set of values defined by an Enum (with appropriate extensions)

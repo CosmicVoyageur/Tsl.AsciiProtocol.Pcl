@@ -5,7 +5,7 @@
 // Assembly location: F:\Visual Studio\Repositories\IlukaOreSampleTracking\lib\Ascii 2 Windows\TechnologySolutions.Rfid.AsciiProtocol.FX35.dll
 
 
-namespace PortableAscii2
+namespace Tsl.AsciiProtocol.Pcl
 {
   /// <summary>
   /// The set of values that are appropriate for the <see cref="P:TechnologySolutions.Rfid.AsciiProtocol.Commands.AlertCommand.AlertDuration"/>
